@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+       function namnhuan(year) {
+            if (year % 4 == 0) {
+                if (year % 100 == 0) {
+                    if (year % 400 == 0) {
+                        namnhuan = true;
+                         }
+                } else {
+                    namnhuan = true;
+                }
+            }
+
+            if (namnhuan) {
+                alert(year + " là năm nhuận");
+                } else {
+                    alert(year + " là năm không nhuận");
+                }
+       }
+
+       namnhuan(2019);
+       namnhuan(2020);
+
+            
+</script>
+</body>
+</html>

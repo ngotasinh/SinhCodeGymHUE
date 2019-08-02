@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <input type="button" value="Đoán số" onclick="game()">
+
+    <script>
+        function game() { 
+            let numberFirst=+prompt("Nhập số đầu") ;
+            let numberlast=+prompt("Nhập số cuối") ;
+            let a= Math.floor(Math.random()*(numberlast-numberFirst))+ numberFirst ;
+
+            for(let i=1;i<4 ;i++) {
+                let b=+prompt("Nhập số muốn đoán: ","");
+                
+                if(b>a) {
+                    alert("Số bạn nhập lớn hơn xin mời nhập lại ");
+                } else 
+                    if(b<a) {
+                        alert("Số nhập bé hơn xin mời nhập lại ");
+                    } else 
+                        alert("Chúc mừng bạn đã đoán đúng");
+                }
+            }
+    </script>
+</body>
+</html>

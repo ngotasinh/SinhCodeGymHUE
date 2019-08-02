@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form >
+           <img id="a" src="bong.png" style="width: 500px">
+           <p>Nhấn vào nút bên dưới để di chuyển hình ảnh sang phải</p>
+           <input type="button" value="Click Me" onclick="moveRight();"/>
+    </form>
+    <script>
+        let anh=null ;
+            anh=document.getElementById("a") ;
+
+        function init() {
+            anh=document.getElementById("a") ;
+            anh.style.position = "relative" ;
+            anh.style.left = "0px" ;
+        }
+
+        function moveRight() {
+            anh.style.left = parseInt(anh.style.left) + 10 +"px" ; 
+        }
+        
+        window.onload= init ;
+    </script>
+</body>
+</html>

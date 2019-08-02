@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body onload="docEvents()">
+    <div id="game"></div>
+    <script>
+        class Pikachu {
+            constructor (src, width, height, top, left) {
+            this.src = src ;
+            this.width = width ;
+            this.height =height ;
+            this.top = top ;
+            this.left = left ;
+            this.distanceMove = 20 ;
+            }
+
+            createImage () {
+                return "<img src = " + this.src +" width = " + this.width +" height = "+ this.height + 
+                " style = 'top :" + this.top + "px ; left : " + this.left + "px ; position : absolute'>" ;
+            }
+          
+            moveRight () {
+                this.left += this.distanceMove ;
+                this.src = "pikachu1.png" ;
+            }
+            moveDown () {
+                this.top += this.distanceMove ;
+                this.src = "pikachu2.jpg" ;
+            }
+            moveLeft () {
+                this.left -= this.distanceMove ;
+                this.src = "pikachu3.jpg" ;
+            }
+            moveTop () {
+                this.top  -= this.distanceMove ;
+                this.src = "pikachu4.gif"
+            }
+        }    
+
+        let myPikachu = new Pikachu('pikachu.png',200 ,200,200 ,500) ;
+           document.getElementById("game").innerHTML= myPikachu.createImage() ;
+        
+        function docEvents() {
+            window.addEventListener('keydown', movePikachu) ;
+        }
+
+        function movePikachu(evt) {
+            switch (evt.keyCode) {
+              
+                case 39 :
+                    myPikachu.moveRight() ;
+                    document.getElementById("game").innerHTML= myPikachu.createImage() ;    
+                break;
+                case 40 :
+                    myPikachu.moveDown() ;
+                    document.getElementById("game").innerHTML= myPikachu.createImage() ;    
+                break;
+                case 37 :
+                    myPikachu.moveLeft() ;
+                    document.getElementById("game").innerHTML= myPikachu.createImage() ;    
+                break;
+                case 38 :
+                    myPikachu.moveTop() ;
+                    document.getElementById("game").innerHTML= myPikachu.createImage() ;    
+                break;
+
+                
+            }
+        }
+
+            
+    </script>
+</body>
+</html>

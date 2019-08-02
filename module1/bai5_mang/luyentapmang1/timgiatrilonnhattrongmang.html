@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // let x=[];
+        // let max;
+        // let index=0;
+
+        // for(let i=0 ;i<5 ;i++) {
+        //     x[i]=+prompt("Nhập giá trị của mảng");
+        //     max=x[0];
+        // } 
+
+        // for(let j=0; j<x.length; j++) {
+        //     if(x[j]>max) {
+        //         max=x[j];
+        //         index=j;
+        //     }
+        // }
+        // document.write("Giá trị lớn nhất là: " + max + " có vị trí "+ index);
+
+
+    function maxArray(...args) {
+        console.log(args);
+        let max=args[0];
+        let index=0;
+        for(let i = 0; i < args.length; i++) {
+            if(max < args[i]) {
+                max= args[i];
+                index= i;
+            }
+        }
+        console.log(max);
+        console.log(index);
+    }
+    maxArray(1,2,3,4,5);
+    maxArray(7,6,5,4,3);
+    maxArray(3,4,8,9,7);
+    </script>
+</body>
+</html>

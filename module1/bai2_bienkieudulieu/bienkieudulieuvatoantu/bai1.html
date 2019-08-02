@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let vatly = prompt('nhập điểm vật lý');
+        let hoahoc = prompt('nhập điểm hóa');
+        let sinhhoc = prompt('nhập diểm sinh học');
+        let ly = parseFloat(vatly);
+        let hoa = parseFloat(hoahoc);
+        let sinh = parseFloat(sinhhoc);
+        let tong = ly+hoa+sinh;
+        let DTB = (ly+hoa+sinh)/3;
+        document.write('tổng = ' + tong)
+        document.write('<br/>')
+        document.write('điểm trung bình = ' + DTB)
+    </script>
+</body>
+</html>

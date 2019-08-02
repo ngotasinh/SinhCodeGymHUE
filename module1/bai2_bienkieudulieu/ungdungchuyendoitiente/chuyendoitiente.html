@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>chuyển đổi tiền tệ</title>
+</head>
+<body style="background-color:DodgerBlue;">
+
+     <table>
+            <tr>
+                <th>Amount</th>
+                <th>&ensp;</th>
+                <th>From currency</th>
+                <th>&ensp;</th> 
+                <th>To Currency</th>
+            </tr>
+            <tr>
+                <td>
+                    <Input type ="number" id="tien">
+                </td>
+                <th>&ensp;</th>
+                <td>
+                    <select  id="From">
+                        <option value="vnd">VND</option>
+                        <option value="usd">USD</option>
+                    </select>
+                </td>
+                <th>&ensp;</th>
+                <td>
+                    <select  id="To">
+                        <option value="usd">USD</option>
+                        <option value="vnd">VND</option>
+                    </select>
+                </td>
+                <th>&ensp;</th>
+                <td> 
+                    <button type="button" onclick="convert()">convert</button>
+                </td>
+            </tr>
+    </table>
+    <div id="demo"></div>
+    <script>
+        function convert() {
+            let amount = document.getElementById("tien").value ;
+            let from = document.getElementById("From").value ;
+            let to = document.getElementById("To").value ;
+    
+            if(from == "vnd" && to == "usd") {
+            document.getElementById("demo").innerHTML=("chuyển tiền VND sang USD là: " + amount/23000) ;
+            }
+
+            if(from == "usd" && to == "vnd") {
+                document.getElementById("demo").innerHTML=("chuyển tiền USD sang VND là : " + amount * 23000) ;
+            }
+
+            if(from == "vnd" && to == "vnd") {
+                document.getElementById("demo").innerHTML=("chuyển tiền VND sang VND là : " + amount ) ;
+            }
+
+            if(from == "usd" && to == "usd") {
+                document.getElementById("demo").innerHTML=("chuyển tiền USD sang USD là : " + amount );
+            }
+        }   
+        
+    </script>
+   
+</body>
+</html>

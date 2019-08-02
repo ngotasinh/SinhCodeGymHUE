@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body onload="checkName(str)">
+    <script>
+
+        let starName=["Polaris", "Aldebaran", "Deneb", "Vega", "Altair", "Dubhe" , "Regulus"] ;
+        let constellationName=["Ursa Minor", "Tarurus", "Cygnus", "Lyra", "Aquila", "Ursa Major", "Leo"] ;
+        let str=prompt("Nhập vào tên ngôi sao");
+        let tontai=false;
+        let pos=0;
+        
+        function checkName(str) {
+            for(let i=0 ; i< starName.length ; i++) {
+                if(str.toLowerCase() === starName[i].toLowerCase()) {
+                    tontai= true ;
+                    pos=i
+                    break ;
+                }   
+            } 
+            if(tontai)
+                alert(constellationName[pos]) ;
+            else 
+                alert("Không có ngôi sao bạn nhập") ;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let diemkiemtra=parseFloat(prompt("Nhập điểm kiểm tra", "")) ;
+        let diemgiuaki=parseFloat(prompt("Nhập điểm thi giữa kì", "")) ;
+        let diemcuoiki=parseFloat(prompt("Nhập điêm thi cuối kì" , "")) ;
+        let diemTB=(diemkiemtra + (diemgiuaki * 2) + (diemcuoiki *3))/6 ;
+
+        if(diemTB>7.9) {
+            alert("Học lực Giỏi");
+        } else {
+            if(diemTB>6.4) {
+                alert("Học lực khá");
+            } else {
+                if(diemTB>4.9) {
+                    alert("Học lực Trung Bình") ;
+                } else {
+                    alert("Học lực Yếu");
+                }
+            }
+        }
+    </script>
+</body>
+</html>

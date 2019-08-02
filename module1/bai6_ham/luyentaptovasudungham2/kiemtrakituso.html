@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let str=+prompt("Nhập vào kí tự cần kiểm tra") ;
+        let number="0123456789" ;
+        let result;
+
+        function search(str) {
+            result = number.includes(str);
+            return result;
+        }
+        alert(search(str))
+    </script>
+</body>
+</html>
