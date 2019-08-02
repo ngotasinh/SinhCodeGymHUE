@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        table {border-collapse: collapse;
+        }
+        table,tr,td{
+            border: 1px solid black;
+        }
+        table {
+            width: 200px; height: 70px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td>Adam <span id="adamweight">70</span>kg</td>
+                <td>eva <span id="evaweight">50</span>kg</td>
+            </tr>
+            <tr>
+                <td><input type="button" id="adamEat" value="Eat" onclick="Eat(1)" ></td>
+                <td><input type="button" id="evaEat" value="Eat" onclick="Eat(2)"></td>
+            </tr>
+        </table>
+    </div>
+    <script>
+        class Person{
+            constructor(name, gender, weight) {
+                this.name = name ;
+                this.gender = gender ;
+                this.weight = weight ;
+            }
+            eat (apple) {
+                apple.descricse();
+                this.weight = this.weight +1 ;
+            }
+        }
+        class Apple{
+            constructor(weight) {
+                this.weight = weight ;
+            }
+            descricse () {
+                this.weight = this.weight -1 ;
+                if(this.weight == 0) {
+                    document.getElementById("adamEat").disabled = true ;
+                    document.getElementById("evaEat").disabled = true ;
+                    alert("Tao bị mày ăn sạch rùi")
+                }   
+            }
+        }
+
+        let adam = new Person("Adam", "Male", 70 );
+        let eva = new Person("Eva" ,"femal", 50) ;
+
+        let apple = new Apple(10);
+        let adamweight= document.getElementById("adamweight") ;
+        let evaweight = document.getElementById("evaweight");
+
+        function Eat (id) {
+            let obj= id === 1 ? adam : eva ;
+            obj.eat(apple) ;
+            adamweight.innerHTML = adam.weight ;
+            evaweight.innerHTML = eva.weight ;
+        }
+    
+
+    
+        
+        
+    </script>
+</body>
+</html>

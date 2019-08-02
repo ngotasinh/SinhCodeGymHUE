@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let songayvay= parseFloat(prompt("Nhập số ngày cần vay","")) ;
+        let sotienvay= parseFloat(prompt("Nhập số tiền cần vay","")) ;
+        let= tienlai=parseFloat ;
+        if(songayvay>365) {
+            tienlai=(sotienvay * 0.5 * 1) + (sotienvay + (sotienvay * 0.5 * 1)) * 0.5 *((songayvay-365)/365);
+            alert("Tiền lãi phải trả là " + tienlai);
+        } else {tienlai=sotienvay*0.5*(songayvay/365) ;
+            alert("Tiền lãi phải trả là " + tienlai);
+            }
+    </script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <canvas id="myCanvas" width="300" height="300" style="border:1px solid #000000;"></canvas>
+        <h1 id="cv"></h1>
+        <h1 id="dt"></h1>
+    <script>
+    
+        let Rectangle = function(width , height) {
+            this.width = width ;
+            this.height = height ;
+
+            this.getWidth= function() {
+                return this.width ;
+            } 
+            this.getHight = function() {
+                return this.height ;
+            }
+    
+            this.getPerimeter = function () {
+                return (this.width + this.height)*2 ;
+            }
+            this.getArea = function() {
+                return this.width * this.height ;
+            }
+            this.setRecTangle = function() {
+                this.width = width ;
+                this.height = height ;
+            }
+        }
+
+        let rectangle = new Rectangle(200,100) ;
+        let width = rectangle.getWidth();
+        let height = rectangle.getHight();
+        let perimeter = rectangle.getPerimeter();
+        let area = rectangle.getArea() ;
+
+        document.getElementById("cv").innerHTML=("chu vi hình chữ nhật là: " + rectangle.getPerimeter());
+        document.getElementById("dt").innerHTML=("dienj thích hình chữ nhật là: " + rectangle.getArea());
+
+        function getRandomHex(){
+            return Math.floor(Math.random()*255);
+        }
+
+        function getRandomColor(){
+            let red = getRandomHex();
+            let green = getRandomHex();
+            let blue = getRandomHex();
+                return "rgb(" + red + "," + blue + "," + green +")";
+        }
+       
+
+        function createRectangle() {
+                let ctx= document.getElementById("myCanvas").getContext("2d") ;
+                let color = getRandomColor();
+                let x = Math.random() * 100;
+                let y = Math.random() * 150 ;
+                ctx.fillStyle =color ;
+                ctx.fill();
+                ctx.fillRect(x,y,width,height);
+        }
+
+        createRectangle() ;
+
+        createRectangle() ;
+
+
+
+
+    </script>
+    
+</body>
+</html>

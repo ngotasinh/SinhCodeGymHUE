@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let array=[];
+        for (let i=0; i<5; i++) {
+            array[i]=prompt("Nhập giá trị phần tử thứ "+(i+1));
+        }
+        
+        for(let i=0; i<array.length; i++) {
+            if (array[i] =="-"){
+                 array[i]="_";
+            }
+        }
+        document.write("Mảng mới là: "+ array.join(" "));
+
+    </script>
+</body>
+</html>
