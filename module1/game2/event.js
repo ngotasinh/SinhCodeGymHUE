@@ -15,3 +15,9 @@ document.addEventListener("keydown", function(event) {
     }
 });
 
+document.addEventListener("mousemove", function(b) {
+    let relativeX = b.clientX - canvas.offsetLeft;
+    if(relativeX > 0 && relativeX < canvas.width) {
+        paddle.x = relativeX - paddle.width/2;
+    }
+})

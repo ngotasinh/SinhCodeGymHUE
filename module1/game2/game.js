@@ -35,10 +35,10 @@ function loop() {
 
     paddle.draw();
     paddle.update();
-    paddle.collidePaddle();
+    paddle.collideBall();
 
     brick.draw();
-    brick.collideBrick();
+    brick.collideBall();
 
     drawScore()
     checkGameOver()

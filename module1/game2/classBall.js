@@ -22,7 +22,7 @@ class Ball {
     }
 
     collideWall() {
-        if(this.x < this.radius || this.x > canvas.width - this.radius) {
+        if(this.x <= this.radius || this.x >= canvas.width - this.radius) {
             WALL_HIT.play();
             this.dx= -this.dx;
         }

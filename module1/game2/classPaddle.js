@@ -31,13 +31,13 @@ class Paddle {
         }
     }
 
-    collidePaddle() {
-        if(ball.x + ball.radius >= paddle.x && ball.x - ball.radius <= this.x + this.width &&
+    collideBall() {
+        if(ball.x + ball.radius >= this.x && ball.x - ball.radius <= this.x + this.width &&
             ball.y + ball.radius >= canvas.height - this.height) {
                 PADDLE_HIT.play();
 
-                let collidePoint = ball.x - (paddle.x + paddle.width/2);
-                collidePoint = collidePoint / (paddle.width/2);
+                let collidePoint = ball.x - (this.x + this.width/2);
+                collidePoint = collidePoint / (this.width/2);
 
                 let angle = collidePoint * Math.PI/3;
 

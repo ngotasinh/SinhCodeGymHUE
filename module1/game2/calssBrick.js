@@ -22,7 +22,7 @@ class Brick {
             }
         });
     }
-    collideBrick() {
+    collideBall() {
         brickLayer.forEach(function(b) {
             if(!b.isBroken) {
                 if(ball.x + ball.radius >= b.x && ball.x - ball.radius <= b.x + brick.width && 
@@ -30,6 +30,7 @@ class Brick {
                     BRICK_HIT.play();
                     b.isBroken = true;
                     ball.dy = - ball.dy;
+                    ball.y += ball.speed;
                     score += 1 ;
                     
                     if(score === maxScore) {
