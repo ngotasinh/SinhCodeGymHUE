@@ -1,19 +1,6 @@
 let canvas = document.getElementById("game");
 let context= canvas.getContext("2d");
 
-let ball = new Ball(12, 570, 3, 4, 12);
-let paddle= new Paddle(90, 12, 0, canvas.height - 12, 7);
-let brick = new Brick(10, 30, 10, 60, 20, 4, 7);
-
-
-let isGameOver = false;
-let isGameWin = false;
-let isBroken= false;
-let score = 0;
-let maxScore = brick.colum * brick.row ;
-let brickLayer = [];
-
-
 let imgplay = document.getElementById("play");
 let imgGameover= document.getElementById("gameover");
 let imgYouWin= document.getElementById("youwin");
@@ -34,13 +21,3 @@ WIN.src = "sounds/win.mp3";
 
 let BRICK_HIT = new Audio();
 BRICK_HIT.src = "sounds/brick_hit.mp3";
-
-for(let r= 0; r < brick.row; r++) {
-    for(let c= 0; c < brick.colum; c++) {
-        brickLayer.push({
-            x : brick.marginX + c*(brick.width + brick.between),
-            y : brick.marginY + r*(brick.height + brick.between),
-            isBroken: false
-        });
-    }
-}
