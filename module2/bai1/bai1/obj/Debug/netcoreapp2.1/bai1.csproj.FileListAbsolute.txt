@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai1\bai1\bin\Debug\netcoreapp2.1\bai1.deps.json
+D:\SinhCodeGymHUE\module2\bai1\bai1\bin\Debug\netcoreapp2.1\bai1.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai1\bai1\bin\Debug\netcoreapp2.1\bai1.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai1\bai1\bin\Debug\netcoreapp2.1\bai1.dll
+D:\SinhCodeGymHUE\module2\bai1\bai1\bin\Debug\netcoreapp2.1\bai1.pdb
+D:\SinhCodeGymHUE\module2\bai1\bai1\obj\Debug\netcoreapp2.1\bai1.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai1\bai1\obj\Debug\netcoreapp2.1\bai1.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai1\bai1\obj\Debug\netcoreapp2.1\bai1.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai1\bai1\obj\Debug\netcoreapp2.1\bai1.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai1\bai1\obj\Debug\netcoreapp2.1\bai1.dll
+D:\SinhCodeGymHUE\module2\bai1\bai1\obj\Debug\netcoreapp2.1\bai1.pdb

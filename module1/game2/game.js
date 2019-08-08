@@ -1,17 +1,18 @@
+
 function drawScore() {
     context.font = "16px Arial Bold";
     context.fillStyle = "black";
-    context.fillText("Score: "+ score, 8, 20);
+    context.fillText("Score: "+score, 8, 20);
 }
 
 function checkGameOver() {
-    if(ball.y + ball.radius> canvas.height){
+    if( ball.y > canvas.height - ball.radius){
         isGameOver = true ;
     }
 }
 
 function disPlay() {
-    imgplay.style.display= "none"
+    play.style.display= "none"
 }
 
 function winAndLose() {
@@ -24,11 +25,6 @@ function winAndLose() {
         imgPlayAgain.style.display= "block";
     }
 }
-
-let isGameOver = false;
-let isGameWin = false;
-let score = 0;
-let maxScore = brick.colum * brick.row ;
 
 function loop() {
     if(!isGameOver) {
@@ -52,7 +48,6 @@ function loop() {
         winAndLose()
     }
 }
-
 function playAgain() {
     location.reload();
 }

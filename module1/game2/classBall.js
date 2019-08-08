@@ -32,5 +32,3 @@ class Ball {
         }
     } 
 }
-
-let ball = new Ball(12, 570, 3, 4, 12);

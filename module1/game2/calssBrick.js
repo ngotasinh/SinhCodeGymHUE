@@ -1,7 +1,7 @@
 class Brick {
-    constructor(offsetX, offsetY, between, width, height, row, colum) {
-        this.offsetX= offsetX;
-        this.offsetY= offsetY;
+    constructor(marginX, marginY, between, width, height, row, colum) {
+        this.marginX= marginX;
+        this.marginY= marginY;
         this.between= between;
         this.width= width;
         this.height= height;
@@ -25,35 +25,21 @@ class Brick {
     collideBall() {
         brickLayer.forEach(function(b) {
             if(!b.isBroken) {
-                if(ball.x + ball.radius > b.x && ball.x - ball.radius < b.x + brick.width && 
-                    ball.y + ball.radius > b.y && ball.y - ball.radius < b.y + brick.height) {
-                        
+                if(ball.x + ball.radius >= b.x && ball.x - ball.radius <= b.x + brick.width && 
+                ball.y + ball.radius >= b.y && ball.y - ball.radius <= b.y + brick.height) {
                     BRICK_HIT.play();
                     b.isBroken = true;
-                    ball.dy = -ball.dy;
+                    ball.dy = - ball.dy;
+                    ball.y += ball.speed;
                     score += 1 ;
                     
                     if(score === maxScore) {
                         isGameWin = true;
                         isGameOver = true;
+    
                     }
                 }
             }
-        });
-    }
-}
-
-
-let brick = new Brick(10, 30, 10, 60, 20, 4, 7);
-let isBroken= false;
-let brickLayer = [];
-
-for(let r= 0; r < brick.row; r++) {
-    for(let c= 0; c < brick.colum; c++) {
-        brickLayer.push({
-            x : brick.offsetX + c*(brick.width + brick.between),
-            y : brick.offsetY + r*(brick.height + brick.between),
-            isBroken: false
         });
     }
 }
