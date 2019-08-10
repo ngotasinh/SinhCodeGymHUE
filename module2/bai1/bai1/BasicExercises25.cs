@@ -4,8 +4,7 @@ using System.Text;
 
 namespace bai1
 {
-    class BasicExercises6
+    class BasicExercises25
     {
-        static void Main
     }
 }
