@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai1\Array\obj\Debug\netcoreapp2.1\BTmang.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai1\Array\obj\Debug\netcoreapp2.1\BTmang.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai1\Array\obj\Debug\netcoreapp2.1\BTmang.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai1\Array\obj\Debug\netcoreapp2.1\BTmang.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai1\Array\bin\Debug\netcoreapp2.1\BTmang.deps.json
+D:\SinhCodeGymHUE\module2\bai1\Array\bin\Debug\netcoreapp2.1\BTmang.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai1\Array\bin\Debug\netcoreapp2.1\BTmang.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai1\Array\bin\Debug\netcoreapp2.1\BTmang.dll
+D:\SinhCodeGymHUE\module2\bai1\Array\bin\Debug\netcoreapp2.1\BTmang.pdb
+D:\SinhCodeGymHUE\module2\bai1\Array\obj\Debug\netcoreapp2.1\BTmang.dll
+D:\SinhCodeGymHUE\module2\bai1\Array\obj\Debug\netcoreapp2.1\BTmang.pdb

@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\obj\Debug\netcoreapp2.1\BaiTap4.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\obj\Debug\netcoreapp2.1\BaiTap4.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\obj\Debug\netcoreapp2.1\BaiTap4.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\obj\Debug\netcoreapp2.1\BaiTap4.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\bin\Debug\netcoreapp2.1\BaiTap4.deps.json
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\bin\Debug\netcoreapp2.1\BaiTap4.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\bin\Debug\netcoreapp2.1\BaiTap4.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\bin\Debug\netcoreapp2.1\BaiTap4.dll
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\bin\Debug\netcoreapp2.1\BaiTap4.pdb
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\obj\Debug\netcoreapp2.1\BaiTap4.dll
+D:\SinhCodeGymHUE\module2\bai2\BaiTap4\obj\Debug\netcoreapp2.1\BaiTap4.pdb

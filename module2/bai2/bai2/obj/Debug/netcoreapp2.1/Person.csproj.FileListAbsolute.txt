@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai2\bai2\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\SinhCodeGymHUE\module2\bai2\bai2\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai2\bai2\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai2\bai2\bin\Debug\netcoreapp2.1\Person.dll
+D:\SinhCodeGymHUE\module2\bai2\bai2\bin\Debug\netcoreapp2.1\Person.pdb
+D:\SinhCodeGymHUE\module2\bai2\bai2\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai2\bai2\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\bai2\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\bai2\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai2\bai2\obj\Debug\netcoreapp2.1\Person.dll
+D:\SinhCodeGymHUE\module2\bai2\bai2\obj\Debug\netcoreapp2.1\Person.pdb

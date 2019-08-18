@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.deps.json
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
+D:\SinhCodeGymHUE\module2\bai2\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb

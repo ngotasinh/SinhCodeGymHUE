@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\bin\Debug\netcoreapp2.1\bai6tess.deps.json
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\bin\Debug\netcoreapp2.1\bai6tess.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\bin\Debug\netcoreapp2.1\bai6tess.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\bin\Debug\netcoreapp2.1\bai6tess.dll
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\bin\Debug\netcoreapp2.1\bai6tess.pdb
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\obj\Debug\netcoreapp2.1\bai6tess.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\obj\Debug\netcoreapp2.1\bai6tess.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\obj\Debug\netcoreapp2.1\bai6tess.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\obj\Debug\netcoreapp2.1\bai6tess.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\obj\Debug\netcoreapp2.1\bai6tess.dll
+D:\SinhCodeGymHUE\module2\bai2\bai6tess\obj\Debug\netcoreapp2.1\bai6tess.pdb

@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\bin\Debug\netcoreapp2.1\BaiTap3.deps.json
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\bin\Debug\netcoreapp2.1\BaiTap3.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\bin\Debug\netcoreapp2.1\BaiTap3.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\bin\Debug\netcoreapp2.1\BaiTap3.dll
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\bin\Debug\netcoreapp2.1\BaiTap3.pdb
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\obj\Debug\netcoreapp2.1\BaiTap3.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\obj\Debug\netcoreapp2.1\BaiTap3.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\obj\Debug\netcoreapp2.1\BaiTap3.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\obj\Debug\netcoreapp2.1\BaiTap3.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\obj\Debug\netcoreapp2.1\BaiTap3.dll
+D:\SinhCodeGymHUE\module2\bai2\BaiTap3\obj\Debug\netcoreapp2.1\BaiTap3.pdb

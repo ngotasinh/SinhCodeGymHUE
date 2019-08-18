@@ -8,8 +8,8 @@ namespace bai1
     {
         static void Main()
         {
-            string str = "Write a C# Sharp Program to display the following pattern using the alphabet.";
-            string[] arrSTR = str.Split(new[] { " " }, StringSplitOptions.None);
+            string str = "Write a C# Sharp Program to    display  the following pattern using the alphabet.";
+            string[] arrSTR = str.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
             string element = "";
             int ctr = 0;
             foreach (String Element in arrSTR)
@@ -18,10 +18,12 @@ namespace bai1
                 {
                     element = Element;
                     ctr = Element.Length;
+                    Console.WriteLine(element);
                 }
             }
 
             Console.WriteLine(element);
+            Console.ReadKey();
         }
     }
 }
