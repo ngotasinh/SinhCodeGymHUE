@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\bin\Debug\netcoreapp2.1\BTCodeGym.deps.json
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\bin\Debug\netcoreapp2.1\BTCodeGym.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\bin\Debug\netcoreapp2.1\BTCodeGym.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\bin\Debug\netcoreapp2.1\BTCodeGym.dll
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\bin\Debug\netcoreapp2.1\BTCodeGym.pdb
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\obj\Debug\netcoreapp2.1\BTCodeGym.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\obj\Debug\netcoreapp2.1\BTCodeGym.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\obj\Debug\netcoreapp2.1\BTCodeGym.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\obj\Debug\netcoreapp2.1\BTCodeGym.dll
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\obj\Debug\netcoreapp2.1\BTCodeGym.pdb
+D:\SinhCodeGymHUE\module2\bai1\BTCodeGym\obj\Debug\netcoreapp2.1\BTCodeGym.csprojAssemblyReference.cache

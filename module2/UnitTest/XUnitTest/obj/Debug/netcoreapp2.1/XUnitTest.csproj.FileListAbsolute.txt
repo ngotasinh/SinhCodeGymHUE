@@ -1,0 +1,17 @@
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CopyComplete
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+D:\SinhCodeGymHUE\module2\UnitTest\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb

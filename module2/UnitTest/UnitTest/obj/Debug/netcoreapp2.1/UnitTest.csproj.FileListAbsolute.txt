@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+D:\SinhCodeGymHUE\module2\UnitTest\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

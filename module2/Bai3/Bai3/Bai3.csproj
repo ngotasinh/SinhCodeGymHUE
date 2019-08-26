@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Bai3.hoadon.HoaDontest</StartupObject>
+    <StartupObject>Bai3.QuanLyMarks.StudentTest</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="QuanLySV\" />
-  </ItemGroup>
 
 </Project>
