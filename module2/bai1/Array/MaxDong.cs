@@ -15,9 +15,7 @@ namespace BTmang
                 {
                     a[i,j] = rand.Next(0, 70);
                 }
-
             }
-
         }
         static void XuatMang(int[,] a)
         {

@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\bin\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.deps.json
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\bin\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\bin\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\bin\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.dll
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\bin\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.pdb
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\obj\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\obj\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\obj\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\obj\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\obj\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.dll
+D:\SinhCodeGymHUE\module2\CauTrucDuLieuVaGiaiThuat\CauTrucDuLieuVaGiaiThuat1\obj\Debug\netcoreapp2.1\CauTrucDuLieuVaGiaiThuat1.pdb

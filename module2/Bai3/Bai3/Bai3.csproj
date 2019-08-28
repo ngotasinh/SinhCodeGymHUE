@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Bai3.QuanLyMarks.StudentTest</StartupObject>
+    <StartupObject>Bai3.ListList.List</StartupObject>
   </PropertyGroup>
 
 </Project>
