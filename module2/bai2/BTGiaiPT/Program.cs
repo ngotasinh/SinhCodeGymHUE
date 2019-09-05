@@ -13,7 +13,7 @@ namespace BTGiaiPT
         {
 
         }
-       
+
         public QuadraticEquation(double A, double B, double C)
         {
             a = A;
@@ -33,18 +33,36 @@ namespace BTGiaiPT
 
         public void getRoot()
         {
-            if(delta < 0)
+            if (a != 0)
             {
-                Console.WriteLine("the equation has no solution");
-            }
-            if(delta == 0)
-            {
-                Console.WriteLine("Equation has 1 solution x= {0}", -b / (2 * a));
+                if (delta < 0)
+                {
+                    Console.WriteLine("the equation has no solution");
+                }
+                if (delta == 0)
+                {
+                    Console.WriteLine("Equation has 1 solution x= {0}", -b / (2 * a));
+                }
+                else
+                {
+                    Console.WriteLine("Root x1= {0} \nRoot x2= {1}", (-b - Math.Sqrt(delta)) / 2 * a, (-b + Math.Sqrt(delta)) / 2 * a);
+                }
             }
             else
             {
-                Console.WriteLine("Root x1= {0} \nRoot x2= {1}", (-b - Math.Sqrt(delta)) / 2 * a, (-b + Math.Sqrt(delta)) / 2 * a);
-            }   
+                if (b == 0 && c == 0)
+                {
+                    Console.WriteLine("The equation has countless solutions");
+                }
+                if (b == 0 && c != 0)
+                {
+                    Console.WriteLine("the equation has no solution");
+                }
+                if (b != 0)
+                {
+                    Console.WriteLine("the equation has solutions is: {0}", -c/b);
+                }
+            }
         }
     }
     class Program
@@ -63,5 +81,5 @@ namespace BTGiaiPT
             equation1.getRoot();
         }
     }
-    
+
 }

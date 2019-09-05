@@ -6,14 +6,14 @@ namespace CauTrucDuLieuVaGiaiThuat1.DayFibonaci
 {
     public class Fibonaci
     {
-       /* public static void Main()
+        public static void Main()
         {
             Console.Write("Nhap n :");
-            long n = long.Parse(Console.ReadLine());
-            Console.WriteLine("Tong cua day so fibonaci la: {0}", SumFibonaci(ref n));
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("Tong cua day so fibonaci la: {0}", SumFibonaci(n));
 
         }
-        public static long SumFibonaci(ref long n)
+        public static int SumFibonaci(int n)
         {
             if (n == 0 || n == 1)
             {
@@ -24,6 +24,6 @@ namespace CauTrucDuLieuVaGiaiThuat1.DayFibonaci
                 n = (SumFibonaci(n - 1) + SumFibonaci(n - 2));
                 return n;
             }
-        }*/
+        }
     }
 }

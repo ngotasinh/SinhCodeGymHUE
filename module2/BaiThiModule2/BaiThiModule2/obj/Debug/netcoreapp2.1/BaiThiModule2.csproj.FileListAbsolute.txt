@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\obj\Debug\netcoreapp2.1\BaiThiModule2.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\obj\Debug\netcoreapp2.1\BaiThiModule2.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\obj\Debug\netcoreapp2.1\BaiThiModule2.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\obj\Debug\netcoreapp2.1\BaiThiModule2.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\bin\Debug\netcoreapp2.1\BaiThiModule2.deps.json
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\bin\Debug\netcoreapp2.1\BaiThiModule2.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\bin\Debug\netcoreapp2.1\BaiThiModule2.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\bin\Debug\netcoreapp2.1\BaiThiModule2.dll
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\bin\Debug\netcoreapp2.1\BaiThiModule2.pdb
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\obj\Debug\netcoreapp2.1\BaiThiModule2.dll
+D:\SinhCodeGymHUE\module2\BaiThiModule2\BaiThiModule2\obj\Debug\netcoreapp2.1\BaiThiModule2.pdb

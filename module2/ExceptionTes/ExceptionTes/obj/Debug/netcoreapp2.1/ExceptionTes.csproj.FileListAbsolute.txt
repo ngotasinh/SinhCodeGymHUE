@@ -1,0 +1,11 @@
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\bin\Debug\netcoreapp2.1\ExceptionTes.deps.json
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\bin\Debug\netcoreapp2.1\ExceptionTes.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\bin\Debug\netcoreapp2.1\ExceptionTes.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\bin\Debug\netcoreapp2.1\ExceptionTes.dll
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\bin\Debug\netcoreapp2.1\ExceptionTes.pdb
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\obj\Debug\netcoreapp2.1\ExceptionTes.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\obj\Debug\netcoreapp2.1\ExceptionTes.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\obj\Debug\netcoreapp2.1\ExceptionTes.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\obj\Debug\netcoreapp2.1\ExceptionTes.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\obj\Debug\netcoreapp2.1\ExceptionTes.dll
+D:\SinhCodeGymHUE\module2\ExceptionTes\ExceptionTes\obj\Debug\netcoreapp2.1\ExceptionTes.pdb

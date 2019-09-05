@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>CauTrucDuLieuVaGiaiThuat1.GiaiThuatSapXep.SapXep</StartupObject>
+    <StartupObject>CauTrucDuLieuVaGiaiThuat1.DayFibonaci.Fibonaci</StartupObject>
   </PropertyGroup>
 
 </Project>

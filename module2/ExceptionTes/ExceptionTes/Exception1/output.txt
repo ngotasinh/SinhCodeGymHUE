@@ -1,0 +1,3 @@
+Tong gia tri 10
+Cac so chan la : 2  4  
+Array Sort: 1 2 3 4
