@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WEB XEM PHIM</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-md sticky-top">
+        <div class="container-fluid" style = "height: auto">
+            <a class="navbar-brand" href="#"><img src="img/logo.jpg" height="30"></a>
+          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+        <div id="navbarResponsive" class="collapse navbar-collapse">
+          <!-- <ul class="nav navbar-nav"> -->
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active"><a class="nav-link" href="#" >Trang Chủ</a></li>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    Thể Loại
+                  </a>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="#">Phim Hành Động</a>
+                      <a class="dropdown-item" href="#">Phim 18+</a>
+                      <a class="dropdown-item" href="#">Phim Kiếm Hiệp</a>
+                   </div>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="#">Đăng Nhập</a></li>
+              <li class="nav-item"><a class="nav-link" href="#"></a></li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+              <form class="form-inline" action="/somepage">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                <button class="btn btn-success" type="submit">Tìm Kiếm</button>
+             </form>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </nav>
+    <header class="row">
+        <div id="slides" class="carousel slide" data-ride="carousel">
+            <ul class="carousel-indicators">
+                <li data-target="#slides" data-slide-to="0" class="active"></li>
+                <li data-target="#slides" data-slide-to="1"></li>
+                <li data-target="#slides" data-slide-to="2"></li>
+                <li data-target="#slides" data-slide-to="3"></li>
+            </ul>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                <img src="img/anh0.jpg" >
+                <div class="carousel-caption">
+                    <h3>supper hero</h3>
+                    <button type="button" class="btn btn-outline-light btn-lg">TRAILER</button>
+                    <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                </div>
+                </div>
+                <div class="carousel-item">
+                <img src="img/anh1.jpg" >
+                <div class="carousel-caption">
+                    <h3>Sát thủ vô danh</h3>
+                    <button type="button" class="btn btn-outline-light btn-lg">TRAILER</button>
+                    <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                </div>
+                </div>
+                <div class="carousel-item">
+                <img src="img/anh2.jpg" >
+                <div class="carousel-caption">
+                    <h3>Quá nhanh quá nguy hiểm</h3>
+                    <button type="button" class="btn btn-outline-light btn-lg">TRAILER</button>
+                    <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                </div>
+                </div>
+                <div class="carousel-item">
+                <img src="img/anh3.jpg" >
+                <div class="carousel-caption">
+                    <h3>Người lạ đến từ địa ngục</h3>
+                    <button type="button" class="btn btn-outline-light btn-lg">TRAILER</button>
+                    <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container-fluid">
+        <div class="row welcome text-center">
+            <div class="col-12">
+                <h5 class="display-4">DANH SÁCH PHIM MỚI</h5>
+            </div>
+        </div>
+    </div> 
+    <div class = "row">
+        <article class="col-sm-9">
+            <div class="row">
+            <div class = "col-sm-4 poly-prod">
+                <div class = "panel panel-default">
+                    <div class = "panel-body">
+                        <img src="img/phim1.jpg" ></div>
+                    <div class = "panel-footer">
+                        <h4>Sát Thủ Vô Danh</h4>
+                        <button type="button" class="btn btn-primary btn-lg">TRAILER</button>
+                        <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                    </div>
+                </div>
+            </div>
+            <div class = "col-sm-4 poly-prod">
+                    <div class = "panel panel-default">
+                        <div class = "panel-body">
+                            <img src="img/phim2.jpg" >
+                        </div>
+                        <div class = "panel-footer">
+                            <h4>Ải Mỷ Nhân</h4>
+                            <button type="button" class="btn btn-primary btn-lg">TRAILER</button>
+                            <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                        </div>
+                    </div>
+            </div>
+            <div class = "col-sm-4 poly-prod">
+                    <div class = "panel panel-default">
+                        <div class = "panel-body">
+                            <img src="img/phim4.jpg" >
+                        </div>
+                        <div class = "panel-footer">
+                            <h4>Aladdin</h4>
+                            <button type="button" class="btn btn-primary btn-lg">TRAILER</button>
+                            <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                        </div>
+                    </div>
+            </div>
+            <div class = "col-sm-4 poly-prod">
+                    <div class = "panel panel-default">
+                        <div class = "panel-body">
+                            <img src="img/phim5.jpg" >
+                        </div>
+                        <div class = "panel-footer">
+                            <h4>Chí Phèo Ngoại Tuyện</h4>
+                            <button type="button" class="btn btn-primary btn-lg">TRAILER</button>
+                            <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                        </div>
+                    </div>
+            </div>
+            <div class = "col-sm-4 poly-prod">
+                    <div class = "panel panel-default">
+                        <div class = "panel-body">
+                            <img src="img/phim6.jpg" >
+                        </div>
+                        <div class = "panel-footer">
+                            <h4>Avengers: End Game</h4>
+                            <button type="button" class="btn btn-primary btn-lg">TRAILER</button>
+                            <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                        </div>
+                    </div>
+            </div>
+            <div class = "col-sm-4 poly-prod">
+                    <div class = "panel panel-default">
+                        <div class = "panel-body">
+                            <img src="img/phim33.jpg" >
+                        </div>
+                        <div class = "panel-footer">
+                            <h4>Tía Tui Là Cao Thủ</h4>
+                            <button type="button" class="btn btn-primary btn-lg">TRAILER</button>
+                            <button type="button" class="btn btn-primary btn-lg">XEM PHIM</button>
+                        </div>
+                    </div>
+            </div>
+            </div>
+        </article>
+        <aside class="col-sm-3">
+                <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <span class = "glyphicon glyphicon-th-list"></span>
+                            <strong>Danh Sách Phim Xem Nhiều</strong>
+                        </div>
+                        <div class="list-group">
+                            <a href="#" class="list-group-item">Quá nhanh quá nguy hiểm</a>
+                            <a href="#" class="list-group-item">Sát thủ vô danh</a>
+                            <a href="#" class="list-group-item">supper hero</a>
+                            <a href="#" class="list-group-item">Người lạ đến từ địa ngục</a>
+                        </div>
+                    </div> 
+        </aside>
+    </div>
+    <hr>
+    </div>
+        <footer class="panel panel-default">
+            <div class = "panel-heading text-center">
+                <h3>Sinh 2019</h3>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

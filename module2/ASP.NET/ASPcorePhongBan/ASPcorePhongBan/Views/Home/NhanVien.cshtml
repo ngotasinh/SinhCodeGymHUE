@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ASPcorePhongBan.Models.NhanVien.NhanVienView>
+
+@{
+    ViewData["Title"] = "NhanVien";
+}
+
+<h1>NhanVien</h1>
+
+<p>
+    <a asp-action="CreateNV">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NVID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenNV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgaySinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhongID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NVID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgaySinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhongID)
+            </td>
+            <td>
+                @Html.ActionLink("EditNV", "EditNV", new { id = item.NVID }) |
+                @Html.ActionLink("DetailsNV", "DetailsNV", new { id = item.NVID }) |
+                @Html.ActionLink("DeleteNV", "DeleteNV", new { id = item.NVID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

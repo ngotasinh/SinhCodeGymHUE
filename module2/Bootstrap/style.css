@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap');
+
+html,body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat Alternates',cursive;
+    font-size: 18px;
+    color: #222222
+}
+.navbar{
+    background-color: rgba(157, 241, 129, 0.9) !important;
+    width: 100%;
+    height: 50px;
+}
+.navbar li a{
+    color: red !important;
+}
+.navbar li a:hover{
+    color: black !important;
+}
+.dropdown-menu{
+    background-color: rgba(213, 231, 207, 0.5);
+}
+.carousel-inner img{
+    width: 100%;
+}
+.carousel-caption{
+    position: absolute;
+    top: 70%;
+    color: white;
+}
+.carousel-caption h3{
+    font-size: 120%;
+    text-transform: uppercase;
+    text-shadow: 15px 15px 15px #000
+}
+.jumbotron{
+    padding: 1rem;
+    border-radius: 0px;
+}
+@media (max-width: 922px){
+    .carousel-caption{
+        position: absolute;
+        top: 60%;
+        color: white;
+    }
+    .carousel-caption h3{
+        font-size: 100%;
+        text-transform: uppercase;
+        text-shadow: 15px 15px 15px #000
+    }
+}
+@media (max-width: 768px){
+    .carousel-caption{
+        position: absolute;
+        top: 50%;
+        color: white;
+    }
+    .carousel-caption h3{
+        font-size: 90%;
+        text-transform: uppercase;
+        text-shadow: 15px 15px 15px #000
+    }
+}
+@media (max-width: 567px){
+    .carousel-caption{
+        position: absolute;
+        top: 40%;
+        color: white;
+    }
+    .carousel-caption h3{
+        font-size: 80%;
+        text-transform: uppercase;
+        text-shadow: 15px 15px 15px #000
+    }
+}

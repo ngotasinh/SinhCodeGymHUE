@@ -1,0 +1,9 @@
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\Domain\obj\Debug\netstandard2.0\Domain.pdb

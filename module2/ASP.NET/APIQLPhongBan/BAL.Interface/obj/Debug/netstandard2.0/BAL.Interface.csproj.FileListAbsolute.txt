@@ -1,0 +1,12 @@
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\bin\Debug\netstandard2.0\BAL.Interface.deps.json
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\bin\Debug\netstandard2.0\BAL.Interface.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\bin\Debug\netstandard2.0\BAL.Interface.pdb
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\bin\Debug\netstandard2.0\Domain.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\bin\Debug\netstandard2.0\Domain.pdb
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.csproj.CopyComplete
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIQLPhongBan\BAL.Interface\obj\Debug\netstandard2.0\BAL.Interface.pdb

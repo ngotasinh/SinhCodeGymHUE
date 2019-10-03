@@ -1,0 +1,33 @@
+div{
+    background-color: greenyellow;
+    width: 300px; height: 300px; 
+    color:red;
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 10px 100px; 
+    position: relative; 
+    top: 100px
+}
+#sinhid{
+    background-color: gray;
+    width: 300px; height: 300px; 
+    color:red;
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 10px 100px; 
+    position: relative; 
+    top: 100px
+}
+.sinhclass{
+    background-color: rebeccapurple;
+    width: 300px; height: 300px; 
+    color:red;
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 10px 100px; 
+    position: relative; 
+    top: 100px;
+
+    border: 2px dotted greenyellow;
+
+    padding: 10px 10px;
+
+    border-radius: 50px 50px
+}

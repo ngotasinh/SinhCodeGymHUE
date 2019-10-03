@@ -1,0 +1,12 @@
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.deps.json
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.pdb
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\bin\Debug\netstandard2.0\Domain.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\bin\Debug\netstandard2.0\Domain.pdb
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CopyComplete
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.dll
+D:\SinhCodeGymHUE\module2\ASP.NET\APIEmployee\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.pdb
